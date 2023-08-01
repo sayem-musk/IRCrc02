@@ -1,0 +1,97 @@
+
+5002b.png
+size: 77,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 41, 41
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 1, 4
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 64, 21
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+hand 2
+  rotate: false
+  xy: 68, 14
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+hand 2 copy
+  rotate: false
+  xy: 57, 26
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+hand 2 copy 2
+  rotate: false
+  xy: 59, 11
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+hand 2 copy 3
+  rotate: false
+  xy: 64, 32
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 41, 8
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 12
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+pant
+  rotate: false
+  xy: 20, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+pant 2
+  rotate: false
+  xy: 31, 4
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+pant 2 copy
+  rotate: false
+  xy: 63, 44
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+pant copy
+  rotate: false
+  xy: 41, 22
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1

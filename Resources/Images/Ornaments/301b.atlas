@@ -1,0 +1,139 @@
+
+301b.png
+size: 93,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 24
+  rotate: false
+  xy: 1, 28
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: false
+  xy: 62, 99
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+Layer 28
+  rotate: false
+  xy: 71, 115
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Layer 29
+  rotate: false
+  xy: 1, 1
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Layer 31
+  rotate: false
+  xy: 23, 51
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Layer 31 copy
+  rotate: false
+  xy: 23, 25
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Layer 31 copy 2
+  rotate: false
+  xy: 44, 5
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Layer 34
+  rotate: false
+  xy: 42, 82
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+Shape 16 copy 2
+  rotate: false
+  xy: 44, 56
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+ballon 2
+  rotate: false
+  xy: 44, 30
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 42, 112
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+eye pp
+  rotate: false
+  xy: 64, 69
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 67, 18
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+hand 2
+  rotate: false
+  xy: 71, 103
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 77
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+lage 1
+  rotate: false
+  xy: 65, 43
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+lage 2
+  rotate: false
+  xy: 22, 3
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+rope
+  rotate: false
+  xy: 70, 77
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+rope copy
+  rotate: false
+  xy: 62, 94
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1

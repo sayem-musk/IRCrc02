@@ -1,0 +1,111 @@
+
+302a.png
+size: 46,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 1, 1
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1, 23
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+eye ppp
+  rotate: false
+  xy: 1, 15
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+guiter
+  rotate: false
+  xy: 1, 62
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 12, 3
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 23, 39
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 92
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+juta
+  rotate: false
+  xy: 23, 51
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+l hand nn
+  rotate: false
+  xy: 41, 121
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+m i 1
+  rotate: false
+  xy: 41, 133
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+m i 2
+  rotate: false
+  xy: 41, 126
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+m i 3
+  rotate: false
+  xy: 26, 18
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+m i 4
+  rotate: false
+  xy: 35, 41
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+m i 5
+  rotate: false
+  xy: 20, 15
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+pant
+  rotate: false
+  xy: 23, 25
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1

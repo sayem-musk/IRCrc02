@@ -1,0 +1,139 @@
+
+adcoin.png
+size: 46,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 2 copy 2
+  rotate: false
+  xy: 1, 228
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Layer 15 copy 2
+  rotate: false
+  xy: 1, 192
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Wing copy
+  rotate: false
+  xy: 1, 150
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Wing copy 2
+  rotate: false
+  xy: 1, 111
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+coin 1
+  rotate: false
+  xy: 1, 89
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+coin 10
+  rotate: false
+  xy: 30, 126
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+coin 11
+  rotate: false
+  xy: 21, 1
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+coin 12
+  rotate: false
+  xy: 22, 45
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+coin 13
+  rotate: false
+  xy: 22, 67
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+coin 14
+  rotate: false
+  xy: 1, 1
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+coin 15
+  rotate: false
+  xy: 1, 45
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+coin 2
+  rotate: false
+  xy: 1, 67
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+coin 3
+  rotate: false
+  xy: 1, 23
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+coin 4
+  rotate: false
+  xy: 23, 89
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+coin 5
+  rotate: false
+  xy: 29, 170
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+coin 6
+  rotate: false
+  xy: 21, 23
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+coin 7
+  rotate: false
+  xy: 30, 148
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+coin 8
+  rotate: false
+  xy: 37, 242
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+coin 9
+  rotate: false
+  xy: 37, 220
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1

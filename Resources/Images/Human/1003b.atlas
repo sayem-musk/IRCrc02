@@ -1,0 +1,83 @@
+
+1003b.png
+size: 73,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 41, 42
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 1, 5
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 31, 1
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+hand 2
+  rotate: false
+  xy: 58, 14
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+hand 2 copy
+  rotate: false
+  xy: 59, 30
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 63, 45
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 13
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+pant
+  rotate: false
+  xy: 20, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+pant 2
+  rotate: false
+  xy: 59, 21
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+pant 2 copy
+  rotate: false
+  xy: 41, 6
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+pant copy
+  rotate: false
+  xy: 41, 23
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1

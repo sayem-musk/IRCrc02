@@ -1,0 +1,83 @@
+
+1012d.png
+size: 141,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 45, 5
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 83, 9
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 1, 1
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 107, 15
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+hand 2
+  rotate: false
+  xy: 121, 37
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+hand 2 copy
+  rotate: false
+  xy: 133, 51
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 121, 48
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 10
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+lip 1
+  rotate: false
+  xy: 83, 1
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+lip 2
+  rotate: false
+  xy: 22, 4
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+pant
+  rotate: false
+  xy: 83, 30
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1

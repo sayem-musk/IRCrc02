@@ -1,0 +1,69 @@
+
+1014c.png
+size: 124,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 12
+  rotate: false
+  xy: 43, 23
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 79, 1
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 78, 31
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 113, 48
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+hand 2
+  rotate: false
+  xy: 104, 40
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 102, 18
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 6
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 43, 2
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+shoe
+  rotate: false
+  xy: 102, 8
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1

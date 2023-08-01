@@ -1,0 +1,90 @@
+
+5001a.png
+size: 93,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 43, 29
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 76, 20
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+hand 2
+  rotate: false
+  xy: 77, 9
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+hand 2 copy
+  rotate: false
+  xy: 83, 34
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 69, 48
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 8
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+lagg
+  rotate: false
+  xy: 69, 32
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+lagg copy
+  rotate: false
+  xy: 43, 12
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 66, 1
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+leg copy
+  rotate: false
+  xy: 61, 14
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+write hand
+  rotate: false
+  xy: 56, 1
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+write hand 1
+  rotate: false
+  xy: 43, 1
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1

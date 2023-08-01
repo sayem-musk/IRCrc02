@@ -1,0 +1,83 @@
+
+1015d.png
+size: 138,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 15
+  rotate: false
+  xy: 1, 2
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 84, 8
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 41, 5
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 108, 18
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+hand 2
+  rotate: false
+  xy: 129, 53
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+hand 2 copy
+  rotate: false
+  xy: 119, 29
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 119, 43
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 41, 13
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+lip 1
+  rotate: false
+  xy: 61, 6
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+lip 2
+  rotate: false
+  xy: 61, 1
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+pant
+  rotate: false
+  xy: 84, 29
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1

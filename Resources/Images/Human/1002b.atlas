@@ -1,0 +1,90 @@
+
+1002b.png
+size: 74,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 59, 16
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+Shape 10
+  rotate: false
+  xy: 13, 1
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Shape 7
+  rotate: false
+  xy: 64, 33
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Shape 8
+  rotate: false
+  xy: 25, 1
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Shape 9
+  rotate: false
+  xy: 1, 1
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 37, 34
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 46, 3
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 59, 21
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+hand copy 2
+  rotate: false
+  xy: 64, 45
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+hand copy 3
+  rotate: false
+  xy: 37, 1
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 11
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+lower part
+  rotate: false
+  xy: 37, 17
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1

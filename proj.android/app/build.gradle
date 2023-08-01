@@ -1,0 +1,166 @@
+import org.gradle.internal.os.OperatingSystem
+
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion PROP_COMPILE_SDK_VERSION.toInteger()
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "com.insparofaith.restaurant"
+        minSdkVersion PROP_MIN_SDK_VERSION
+        targetSdkVersion PROP_TARGET_SDK_VERSION
+        versionCode 1
+        versionName "1.0"
+
+        externalNativeBuild {
+            if (PROP_BUILD_TYPE == 'ndk-build') {
+                ndkBuild {
+                    targets 'MyGame'
+                    arguments 'NDK_TOOLCHAIN_VERSION=clang'
+                    arguments '-j' + Runtime.runtime.availableProcessors()
+
+                    def module_paths = [project.file("../../cocos2d").absolutePath,
+                                        project.file("../../cocos2d/cocos").absolutePath,
+                                        project.file("../../cocos2d/external").absolutePath]
+                    if (OperatingSystem.current().isWindows()) {
+                        module_paths = module_paths.collect {it.replaceAll('\\\\', '/')}
+                        arguments 'NDK_MODULE_PATH=' + module_paths.join(";")
+                    }
+                    else {
+                        arguments 'NDK_MODULE_PATH=' + module_paths.join(':')
+                    }
+                }
+            }
+            else if (PROP_BUILD_TYPE == 'cmake') {
+                cmake {
+                    targets 'MyGame'
+                    arguments "-DCMAKE_FIND_ROOT_PATH=", "-DANDROID_STL=c++_static", "-DANDROID_TOOLCHAIN=clang", "-DANDROID_ARM_NEON=TRUE"
+                    cppFlags "-frtti -fexceptions -fsigned-char"
+                    abiFilters "armeabi-v7a","arm64-v8a"
+                }
+            }
+        }
+
+        ndk {
+            abiFilters = []
+            abiFilters.addAll(PROP_APP_ABI.split(':').collect{it as String})
+        }
+    }
+
+    sourceSets.main {
+        java.srcDir "src"
+        res.srcDir "res"
+        manifest.srcFile "AndroidManifest.xml"
+        assets.srcDir "../../Resources"
+    }
+
+    externalNativeBuild {
+        if (PROP_BUILD_TYPE == 'ndk-build') {
+            ndkBuild {
+                path "jni/Android.mk"
+            }
+        }
+        else if (PROP_BUILD_TYPE == 'cmake') {
+            cmake {
+                path "../../CMakeLists.txt"
+            }
+        }
+    }
+
+    signingConfigs {
+
+       release {
+            if (project.hasProperty("RELEASE_STORE_FILE")) {
+                storeFile file(RELEASE_STORE_FILE)
+                storePassword RELEASE_STORE_PASSWORD
+                keyAlias RELEASE_KEY_ALIAS
+                keyPassword RELEASE_KEY_PASSWORD
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            debuggable false
+            jniDebuggable false
+            renderscriptDebuggable false
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            if (project.hasProperty("RELEASE_STORE_FILE")) {
+                signingConfig signingConfigs.release
+            }
+
+            externalNativeBuild {
+                ndkBuild {
+                    arguments 'NDK_DEBUG=0'
+                }
+            }
+        }
+
+        debug {
+            debuggable true
+            jniDebuggable true
+            renderscriptDebuggable true
+            externalNativeBuild {
+                ndkBuild {
+                    arguments 'NDK_DEBUG=1'
+                }
+            }
+        }
+    }
+}
+
+android.applicationVariants.all { variant ->
+    // delete previous files first
+    delete "${buildDir}/intermediates/assets/${variant.dirName}"
+
+    variant.mergeAssets.doLast {
+        copy {
+            from "${buildDir}/../../../Resources"
+            into "${buildDir}/intermediates/assets/${variant.dirName}"
+            exclude "**/*.gz"
+        }
+    }
+}
+
+dependencies {
+    // multidex
+    implementation 'androidx.multidex:multidex:2.0.1'
+
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation project(':libcocos2dx')
+
+    // firebase
+    implementation 'com.google.firebase:firebase-core:17.2.2'
+    implementation 'com.google.firebase:firebase-config:19.1.0'
+    implementation 'com.google.firebase:firebase-ads:18.3.0'
+    implementation 'com.google.firebase:firebase-messaging:20.1.0'
+//implementation 'com.google.firebase:firebase-inappmessaging-display:17.1.0'
+// firebase end
+
+    // android support
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'com.google.android.material:material:1.0.0'
+/*This dependency is unnecessary if firebase-inappmessaging-display is present as dependency*/
+// android support end
+
+    // Required Dependency by Audience Network SDK
+    implementation 'com.facebook.android:audience-network-sdk:5.7.0'
+    implementation 'com.google.ads.mediation:facebook:5.7.0.0'
+    //facebook end
+
+    // google analytics
+    implementation 'com.google.android.gms:play-services-analytics:17.0.0'
+
+    //gameanalytic
+    implementation 'com.gameanalytics.sdk:gameanalytics-android:3.4.2'
+
+    // inapp purchase
+    implementation 'com.anjlab.android.iab.v3:library:1.0.44'
+    // inapp purchase end
+
+}

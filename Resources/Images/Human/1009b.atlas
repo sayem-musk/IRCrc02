@@ -1,0 +1,83 @@
+
+1009b.png
+size: 75,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shape 15
+  rotate: false
+  xy: 62, 47
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Shape 15 copy
+  rotate: false
+  xy: 40, 25
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Shape 16
+  rotate: false
+  xy: 40, 13
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Shape 16 copy
+  rotate: false
+  xy: 1, 1
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 40, 42
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 15, 8
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 57, 28
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 58, 18
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+hand copy 2
+  rotate: false
+  xy: 50, 13
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+hand copy 3
+  rotate: false
+  xy: 34, 5
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 15
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1

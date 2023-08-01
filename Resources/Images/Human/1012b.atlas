@@ -1,0 +1,83 @@
+
+1012b.png
+size: 78,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shape 11
+  rotate: false
+  xy: 63, 42
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Shape 11 copy
+  rotate: false
+  xy: 41, 7
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Shape 6
+  rotate: false
+  xy: 63, 51
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Shape 6 copy
+  rotate: false
+  xy: 41, 24
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 41, 43
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 19, 6
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1, 1
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+hand 2
+  rotate: false
+  xy: 59, 32
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+hand 2 copy
+  rotate: false
+  xy: 72, 41
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 11, 1
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 14
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1

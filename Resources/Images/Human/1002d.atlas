@@ -1,0 +1,83 @@
+
+1002d.png
+size: 109,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 1, 23
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 23, 18
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 74, 40
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1, 5
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 11, 9
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+hand copy 2
+  rotate: false
+  xy: 98, 27
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+hand copy 3
+  rotate: false
+  xy: 98, 14
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 38, 27
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 74, 9
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+lip 1
+  rotate: false
+  xy: 38, 22
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+lip 2
+  rotate: false
+  xy: 1, 1
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1

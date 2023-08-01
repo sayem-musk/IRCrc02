@@ -1,0 +1,83 @@
+
+1013d.png
+size: 109,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 1, 21
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 74, 11
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+eye close copy
+  rotate: false
+  xy: 16, 1
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 16, 7
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 27, 9
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+hand copy 2
+  rotate: false
+  xy: 1, 4
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+hand copy 3
+  rotate: false
+  xy: 101, 23
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 38, 27
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 74, 40
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+lip 1
+  rotate: false
+  xy: 38, 21
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+lip 2
+  rotate: false
+  xy: 39, 16
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+5001b.png
+size: 109,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 93, 11
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+Shape 11
+  rotate: false
+  xy: 68, 31
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Shape 11 copy
+  rotate: false
+  xy: 68, 14
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+Shape 12
+  rotate: false
+  xy: 41, 1
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Shape 12 copy
+  rotate: false
+  xy: 80, 16
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 41, 14
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 82, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 53, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+hand copy 2
+  rotate: false
+  xy: 63, 3
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+hand copy 3
+  rotate: false
+  xy: 100, 27
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 1
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+writing 5
+  rotate: false
+  xy: 92, 16
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+writing hand
+  rotate: false
+  xy: 82, 32
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1

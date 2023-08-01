@@ -1,0 +1,90 @@
+
+1007d.png
+size: 135,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 15
+  rotate: false
+  xy: 1, 5
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+Shape 13
+  rotate: false
+  xy: 80, 29
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Shape 14
+  rotate: false
+  xy: 112, 35
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 80, 9
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 39, 5
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 59, 1
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+hand 2
+  rotate: false
+  xy: 80, 1
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hand 2 copy
+  rotate: false
+  xy: 116, 22
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 103, 11
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 39, 13
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+lip 1
+  rotate: false
+  xy: 69, 5
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+lip 2
+  rotate: false
+  xy: 88, 4
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1

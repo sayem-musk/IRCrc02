@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "538083194443",
+    "firebase_url": "https://idle-restaurant-ae0c1.firebaseio.com",
+    "project_id": "idle-restaurant-ae0c1",
+    "storage_bucket": "idle-restaurant-ae0c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538083194443:android:0bf73adf096adf6c373fce",
+        "android_client_info": {
+          "package_name": "com.insparofaith.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538083194443-l5136s7ln4b2hug1lvd3bh61mtbiblmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcwhm8eFqwn92ktKCskWTM8EAuT0nsvAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538083194443-l5136s7ln4b2hug1lvd3bh61mtbiblmp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538083194443-qvu9t702b2mam7josb9k2vfo7rqan48f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.insparofaith.restaurant",
+                "app_store_id": "1513825538"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9984529693050185~8324757821"
+    }
+  ],
+  "configuration_version": "1"
+}

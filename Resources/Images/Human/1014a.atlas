@@ -1,0 +1,76 @@
+
+1014a.png
+size: 93,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shape 12 copy
+  rotate: false
+  xy: 69, 47
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Shape 12 copy 2
+  rotate: false
+  xy: 43, 15
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Shape 13 copy
+  rotate: false
+  xy: 69, 35
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Shape 13 copy 2
+  rotate: false
+  xy: 43, 1
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 43, 33
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 83, 50
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+hand 2
+  rotate: false
+  xy: 70, 25
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+hand 2 copy
+  rotate: false
+  xy: 58, 1
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 61, 16
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 8
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1

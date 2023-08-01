@@ -1,0 +1,90 @@
+
+1006d.png
+size: 125,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 23
+  rotate: false
+  xy: 1, 19
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+Shape 14 copy
+  rotate: false
+  xy: 86, 41
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+Shape 15 copy
+  rotate: false
+  xy: 66, 1
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 39, 5
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 86, 35
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 11, 5
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 22, 7
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+hand copy 2
+  rotate: false
+  xy: 1, 2
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+hand copy 3
+  rotate: false
+  xy: 116, 62
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 39, 34
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+lip 1
+  rotate: false
+  xy: 116, 56
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+lip 2
+  rotate: false
+  xy: 101, 37
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1

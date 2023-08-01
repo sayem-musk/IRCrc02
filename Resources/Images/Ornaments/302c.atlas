@@ -1,0 +1,188 @@
+
+302c.png
+size: 267,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 224, 17
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 240, 23
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+eye ppp
+  rotate: false
+  xy: 196, 10
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+guiter
+  rotate: false
+  xy: 196, 31
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 236, 10
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 211, 19
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 96, 4
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+juta
+  rotate: false
+  xy: 196, 18
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+l hand nn
+  rotate: false
+  xy: 261, 35
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+m i 1
+  rotate: false
+  xy: 261, 47
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+m i 2
+  rotate: false
+  xy: 261, 40
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+m i 3
+  rotate: false
+  xy: 193, 1
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+m i 4
+  rotate: false
+  xy: 255, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+m i 5
+  rotate: false
+  xy: 261, 54
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+pant
+  rotate: false
+  xy: 215, 4
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+speaker 1
+  rotate: false
+  xy: 139, 2
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+speaker 1 copy
+  rotate: false
+  xy: 202, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+speaker 2
+  rotate: false
+  xy: 169, 8
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+speaker 2 copy
+  rotate: false
+  xy: 169, 1
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+speaker 3
+  rotate: false
+  xy: 246, 13
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+speaker 3 copy
+  rotate: false
+  xy: 224, 7
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+speaker up 1
+  rotate: false
+  xy: 256, 12
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+speaker up 2
+  rotate: false
+  xy: 246, 3
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+speakerr 1
+  rotate: false
+  xy: 234, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+speakerr 2
+  rotate: false
+  xy: 181, 1
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+stage 2
+  rotate: false
+  xy: 1, 1
+  size: 94, 60
+  orig: 94, 60
+  offset: 0, 0
+  index: -1
